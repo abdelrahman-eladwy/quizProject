@@ -1,0 +1,194 @@
+{
+  "questions": [
+    {
+      "questionText": "Which of the following does HTML use to specify elements?",
+      "options": [
+        {
+          "text": "<",
+          "correct": true
+        },
+        {
+          "text": ";"
+        },
+        {
+          "text": "!"
+        },
+        {
+          "text": "&"
+        }
+      ],
+      "explanation": "HTML uses the opening angle bracket (<) to specify elements"
+    },
+    {
+      "questionText": "Which of the following is NOT a valid CSS selector?",
+      "options": [
+        {
+          "text": "#id"
+        },
+        {
+          "text": ".class"
+        },
+        {
+          "text": "enum",
+          "correct": true
+        },
+        {
+          "text": "element"
+        }
+      ],
+      "explanation": "enum is not a valid CSS selector"
+    },
+    {
+      "questionText": "How can we apply styles to an element using JavaScript?",
+      "options": [
+        {
+          "text": "Use classes."
+        },
+        {
+          "text": "Use interfaces."
+        },
+        {
+          "text": "Use enums."
+        },
+        {
+          "text": "Use JavaScript functions.",
+          "correct": true
+        }
+      ],
+      "explanation": "JavaScript functions are used to apply styles to an element dynamically"
+    },
+    {
+      "questionText": "How can we select an element using its ID in JavaScript?",
+      "options": [
+        {
+          "text": "$('#id')"
+        },
+        {
+          "text": "document.getElementById('id')",
+          "correct": true
+        },
+        {
+          "text": "querySelector('#id')"
+        },
+        {
+          "text": "querySelectorAll('#id')"
+        }
+      ],
+      "explanation": "document.getElementById('id') is used to select an element by its ID"
+    },
+    {
+      "questionText": "Which of these methods is used to add a class to an element in JavaScript?",
+      "options": [
+        {
+          "text": "element.addClass('className')"
+        },
+        {
+          "text": "element.classList.add('className')",
+          "correct": true
+        },
+        {
+          "text": "element.addClassList('className')"
+        },
+        {
+          "text": "element.append('className')"
+        }
+      ],
+      "explanation": "element.classList.add('className') is used to add a class to an element"
+    },
+    {
+      "questionText": "Which is NOT a valid value for the CSS display property?",
+      "options": [
+        {
+          "text": "block"
+        },
+        {
+          "text": "inline"
+        },
+        {
+          "text": "flex"
+        },
+        {
+          "text": "async",
+          "correct": true
+        }
+      ],
+      "explanation": "async is not a valid value for the CSS display property"
+    },
+    {
+      "questionText": "Which property is used to change the font size in CSS?",
+      "options": [
+        {
+          "text": "font-size",
+          "correct": true
+        },
+        {
+          "text": "text-size"
+        },
+        {
+          "text": "font-family"
+        },
+        {
+          "text": "font-weight"
+        }
+      ],
+      "explanation": "font-size is used to specify the size of the font in CSS"
+    },
+    {
+      "questionText": "Which is a valid value for the CSS background color property?",
+      "options": [
+        {
+          "text": "red"
+        },
+        {
+          "text": "#123456"
+        },
+        {
+          "text": "rgb(255, 0, 0)"
+        },
+        {
+          "text": "All of the above",
+          "correct": true
+        }
+      ],
+      "explanation": "All of the options are valid values for the CSS background color property"
+    },
+    {
+      "questionText": "How can we select multiple elements in JavaScript using a class?",
+      "options": [
+        {
+          "text": "$('.className')"
+        },
+        {
+          "text": "document.getElementsByClassName('className')",
+          "correct": true
+        },
+        {
+          "text": "querySelector('.className')"
+        },
+        {
+          "text": "querySelectorAll('.className')"
+        }
+      ],
+      "explanation": "document.getElementsByClassName('className') is used to select multiple elements by class name"
+    },
+    {
+      "questionText": "How can we change the text content of an HTML element using JavaScript?",
+      "options": [
+        {
+          "text": "element.innerHTML"
+        },
+        {
+          "text": "element.innerText",
+          "correct": true
+        },
+        {
+          "text": "element.textContent"
+        },
+        {
+          "text": "element.append('newText')"
+        }
+      ],
+      "explanation": "element.innerText is used to change the text content of an HTML element"
+    }
+  ]
+}
